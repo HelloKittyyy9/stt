@@ -1,0 +1,72 @@
+html{
+    color:rgb(0, 0, 0)
+}
+html {
+font-size: 10px;
+font-family: 'Passions Conflict', cursive;
+font-weight:600
+}
+h1 {
+    
+    font-size: 80px;
+    text-align: center;
+  }
+  
+  p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+    html {
+        background-color: #dfc2a9;
+      }
+      a{
+        font-size: 16px;
+        color: rgb(0, 0, 0)
+        text-align: right;
+      
+    }
+    img {
+      display: block;
+      margin: 0 auto;
+    }
+    
+    body {
+        width: 600px;
+        margin: auto auto;
+        background-color: #e7ba91;
+        padding: 40px 60px 60px 60px;
+        border: 5px solid rgb(0, 0, 0);
+      }
+     
+       h1 {
+        margin: 0;
+        padding: 20px 0;
+        color: black;
+        text-shadow: 3px 3px 1px #f0f0f0;
+      }
+  button {
+    background-color: #303030;
+    font-size: 20px;
+    border-radius: 12px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    color: rgb(245, 242, 242)
+    }
+  button {
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+}
+
+button:hover {
+    background-color: #eeeaea; 
+    color:#eeeaea);
+}
+a {
+  color: rgb(255, 255, 255); 
+ }
+ a:visited {
+  color: #ffffff;
+ }
+ a:active {
+  color: #000000; 
+ }
